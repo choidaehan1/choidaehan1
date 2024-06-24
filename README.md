@@ -33,8 +33,7 @@
 <!-- 주요 프로젝트 -->
 <h2 align="center">🚀 주요 프로젝트</h2>
 <ul>
-  <li><a href="https://github.com/choidaehan1/project1"><strong>프로젝트 이름 1</strong></a> - 간단한 설명</li>
-  <li><a href="https://github.com/choidaehan1/project2"><strong>프로젝트 이름 2</strong></a> - 간단한 설명</li>
+  <li><a href="https://github.com/choidaehan1/Jpa-Board-Project"><strong>Jpa-Board-Project</strong></a> - 간단한 설명</li>
 </ul>
 
 <!-- 연락처 및 소셜 미디어 -->
