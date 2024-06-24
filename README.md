@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
-<!-- 상단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome!&fontSize=40&fontColor=ffffff" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DaeHan Choi!&fontSize=40&fontColor=ffffff" width="100%"/>
 
 
 <!-- 소개 -->
