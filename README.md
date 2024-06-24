@@ -7,7 +7,8 @@
 <p align="center">
   🔭 <strong>백엔드 개발자</strong>로서 Java와 Spring Boot에 집중하고 있습니다.<br>
   🌱 현재 <strong>마이크로서비스</strong>와 <strong>DevOps</strong>를 학습 중입니다.<br>
-  📧 Email: <a href="mailto:cdh6805@naver.com">cdh6805@naver.com</a>
+  📧 Email: <a href="mailto:cdh6805@naver.com">cdh6805@naver.com</a><br>
+  🌐 개발 블로그: <a href="https://www.blogger.com/blog/posts/3227687597067101850">방문하기</a>
 </p>
 
 <!-- 기술 스택 -->
@@ -28,8 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=choidaehan1&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choidaehan1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-
 
 <!-- 주요 프로젝트 -->
 <h2 align="center">🚀 주요 프로젝트</h2>
