@@ -48,7 +48,7 @@
 </ul>
 
 <!-- 연락처 및 소셜 미디어 -->
-<h2 align="center">📫 연락처</h2>
+<h2 align="center">📫 이메일</h2>
 <p align="center">
   <a href="mailto:cdh6805@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver" /></a>
 </p>
