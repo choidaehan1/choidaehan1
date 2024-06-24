@@ -1,69 +1,58 @@
-<!-- 상단 배너 --!>
+<!-- 상단 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DaeHan%20Choi!&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+<!-- 프로필 요약 -->
+<h2 align="center">👋 안녕하세요! @choidaehan1 입니다</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Choi%20DaeHan!&fontSize=40&fontColor=ffffff" alt="Header" width="100%"/>
+  🔭 <strong>백엔드 개발자</strong>로서 Java와 Spring Boot에 집중하고 있습니다.<br>
+  🌱 현재 <strong>마이크로서비스</strong>와 <strong>DevOps</strong>를 학습 중입니다.<br>
+  🎯 <strong>오픈 소스 프로젝트</strong>에서 협업을 희망합니다.<br>
+  📧 연락처: <a href="mailto:cdh6805@naver.com">cdh6805@naver.com</a>
 </p>
 
-
-<!-- 소개 -->
-## 👋 Hi, I'm @choidaehan1
-
-- 👀 I'm interested in **Java, Spring Boot, and Backend Development**
-- 🌱 I'm currently learning **Microservices and DevOps**
-- 💞️ I'm looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: [cdh6805@naver.com](mailto:cdh6805@naver.com)
--
-
 <!-- 기술 스택 -->
-## 🔧 Technologies & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<h2 align="center">🛠️ 기술 스택</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 <!-- GitHub 통계 -->
-## 📈 GitHub Stats
-
+<h2 align="center">📊 GitHub 통계</h2>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=choidaehan1&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choidaehan1&layout=compact&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=choidaehan1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choidaehan1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- GitHub 트로피 -->
-## 🏆 GitHub Trophies
-
+<h2 align="center">🏆 GitHub 트로피</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=choidaehan1&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=choidaehan1&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <!-- GitHub 연속 커밋 -->
-## 🔥 GitHub Streak
-
+<h2 align="center">🔥 GitHub 연속 커밋</h2>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=choidaehan1&theme=radical" alt="streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=choidaehan1&theme=radical" alt="GitHub Streak" />
 </p>
 
 <!-- 주요 프로젝트 -->
-## 🚀 Major Projects
-
-- [**Project Name 1**](https://github.com/choidaehan1/project1) - 간단한 설명
-- [**Project Name 2**](https://github.com/choidaehan1/project2) - 간단한 설명
-
+<h2 align="center">🚀 주요 프로젝트</h2>
+<ul>
+  <li><a href="https://github.com/choidaehan1/project1"><strong>프로젝트 이름 1</strong></a> - 간단한 설명</li>
+  <li><a href="https://github.com/choidaehan1/project2"><strong>프로젝트 이름 2</strong></a> - 간단한 설명</li>
+</ul>
 
 <!-- 연락처 및 소셜 미디어 -->
-## 📫 Contact
-
-- [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:cdh6805@naver.com)
+<h2 align="center">📫 연락처</h2>
+<p align="center">
+  <a href="mailto:cdh6805@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver" /></a>
+</p>
 
 <!-- 하단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=0&animation=twinkling" width="100%"/>
