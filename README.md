@@ -1,8 +1,8 @@
 <!-- 상단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DaeHan%20Choi!&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,100:80D0C7&height=120&section=header&text=DaeHan%20Choi!&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <!-- 프로필 요약 -->
-<h2 align="center">👋 안녕하세요! 백앤드 개발자가 되고 싶은 최대한이라고 합니다.</h2>
+<h2 align="center">👋 안녕하세요! 백엔드 개발자가 되고 싶은 최대한이라고 합니다.</h2>
 
 <p align="center">
   🔭 <strong>백엔드 개발자</strong>로서 Java와 Spring Boot에 집중하고 있습니다.<br>
@@ -54,4 +54,4 @@
 </p>
 
 <!-- 하단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=0&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:80D0C7,100:0093E9&height=100&section=footer&text=&fontSize=0&animation=twinkling" width="100%"/>
