@@ -1,5 +1,5 @@
 <!-- 상단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=안녕하세요!!&fontSize=40&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=안녕하세요!&fontSize=40&fontColor=ffffff" width="100%"/>
 
 <!-- 소개 -->
 ## 👋 Hi, I'm @choidaehan1
@@ -7,9 +7,8 @@
 - 👀 I'm interested in **Java, Spring Boot, and Backend Development**
 - 🌱 I'm currently learning **Microservices and DevOps**
 - 💞️ I'm looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: [choidaehan@example.com](mailto:choidaehan@example.com)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love solving puzzles and playing chess**
+- 📫 How to reach me: [cdh6805@naver.com](mailto:cdh6805@naver.com)
+-
 
 <!-- 기술 스택 -->
 ## 🔧 Technologies & Tools
