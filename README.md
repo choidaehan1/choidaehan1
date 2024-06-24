@@ -36,11 +36,6 @@
   <li><a href="https://github.com/choidaehan1/Jpa-Board-Project"><strong>Jpa-Board-Project</strong></a> -  SpirngBoot Jpa 게시판 만들기 </li>
 </ul>
 
-<!-- 연락처 및 소셜 미디어 -->
-<h2 align="center">📫 이메일</h2>
-<p align="center">
-  <a href="mailto:cdh6805@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver" /></a>
-</p>
 
 <!-- 하단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:80D0C7,100:0093E9&height=100&section=footer&text=&fontSize=0&animation=twinkling" width="100%"/>
