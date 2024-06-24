@@ -28,17 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choidaehan1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- GitHub 트로피 -->
-<h2 align="center">🏆 GitHub 트로피</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=choidaehan1&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
-<!-- GitHub 연속 커밋 -->
-<h2 align="center">🔥 GitHub 연속 커밋</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=choidaehan1&theme=radical" alt="GitHub Streak" />
-</p>
 
 <!-- 주요 프로젝트 -->
 <h2 align="center">🚀 주요 프로젝트</h2>
