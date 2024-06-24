@@ -2,11 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DaeHan%20Choi!&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <!-- 프로필 요약 -->
-<h2 align="center">👋 안녕하세요! 개발자가 되고 싶은 최대한 이라고 합니다.</h2>
+<h2 align="center">👋 안녕하세요! @choidaehan1 입니다</h2>
 
 <p align="center">
   🔭 <strong>백엔드 개발자</strong>로서 Java와 Spring Boot에 집중하고 있습니다.<br>
-
+  🌱 현재 <strong>마이크로서비스</strong>와 <strong>DevOps</strong>를 학습 중입니다.<br>
   📧 연락처: <a href="mailto:cdh6805@naver.com">cdh6805@naver.com</a>
 </p>
 
