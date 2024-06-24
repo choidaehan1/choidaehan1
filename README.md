@@ -33,7 +33,7 @@
 <!-- 주요 프로젝트 -->
 <h2 align="center">🚀 주요 프로젝트</h2>
 <ul>
-  <li><a href="https://github.com/choidaehan1/Jpa-Board-Project"><strong>Jpa-Board-Project</strong></a> - 간단한 설명</li>
+  <li><a href="https://github.com/choidaehan1/Jpa-Board-Project"><strong>Jpa-Board-Project</strong></a> -  SpirngBoot Jpa 게시판 만들기 </li>
 </ul>
 
 <!-- 연락처 및 소셜 미디어 -->
