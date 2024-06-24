@@ -1,5 +1,5 @@
 <!-- 상단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=안녕하세요!&fontSize=40&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=안녕하세요! 최대한 이라고 합니다. 반갑습니다 ! !&fontSize=40&fontColor=ffffff" width="100%"/>
 
 <!-- 소개 -->
 ## 👋 Hi, I'm @choidaehan1
