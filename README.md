@@ -1,6 +1,6 @@
 <!-- 상단 배너 --!>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DaeHan%20Choi!&fontSize=40&fontColor=ffffff" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Choi%20DaeHan!&fontSize=40&fontColor=ffffff" alt="Header" width="100%"/>
 </p>
 
 
