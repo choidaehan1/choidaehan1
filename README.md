@@ -55,14 +55,12 @@
 
 - [**Project Name 1**](https://github.com/choidaehan1/project1) - 간단한 설명
 - [**Project Name 2**](https://github.com/choidaehan1/project2) - 간단한 설명
-- [**Project Name 3**](https://github.com/choidaehan1/project3) - 간단한 설명
+
 
 <!-- 연락처 및 소셜 미디어 -->
 ## 📫 Contact
 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choidaehan@example.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choidaehan1/)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/choidaehan1)
+- [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:cdh6805@naver.com)
 
 <!-- 하단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=footer&text=&fontSize=0" width="100%"/>
