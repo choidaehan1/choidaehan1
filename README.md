@@ -6,7 +6,7 @@
 
 <p align="center">
   🔭 <strong>백엔드 개발자</strong>로서 Java와 Spring Boot에 집중하고 있습니다.<br>
-  🌱 현재 <strong>마이크로서비스</strong>와 <strong>DevOps</strong>를 학습 중입니다.<br>
+  🌱 열심히 하겠습니다 ! .<br>
   📧 Email: <a href="mailto:cdh6805@naver.com">cdh6805@naver.com</a><br>
   🌐 개발 블로그: <a href="https://www.blogger.com/blog/posts/3227687597067101850">방문하기</a>
 </p>
