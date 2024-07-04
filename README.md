@@ -33,6 +33,7 @@
 <h2 align="center">🚀 주요 프로젝트</h2>
 <ul>
   <li><a href="https://github.com/choidaehan1/Jpa-Board-Project"><strong>Jpa-Board-Project</strong></a> -  SpirngBoot Jpa 게시판 만들기 </li>
+  <li><a href="https://github.com/choidaehan1/KoreaArtSchool"><strong>KoreaArtSchool</strong></a> - Korea Art School Management System </li>
 </ul>
 
 
